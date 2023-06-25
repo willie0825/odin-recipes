@@ -1,0 +1,47 @@
+body {
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+a {
+    font-size: medium;
+    color: black;
+}
+
+a:hover {
+    font-size: large;
+}
+
+img {
+    border: 2px solid;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 5px 5px 5px #7d7d7d;
+}
+
+li {
+    margin: 20px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+}
+
+ol {
+    display: inline-block;
+    align-items: center;
+    text-align: left;
+    width: 300px;
+}
+
+div.container {
+    text-align: center;
+  }
+
+body.food {
+    text-align: center;
+}
